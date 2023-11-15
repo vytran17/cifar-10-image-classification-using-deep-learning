@@ -1,8 +1,5 @@
 # CIFAR-10 Image Classification Using Deep Learning
 
-```
-# CIFAR-10 Image Classification Using Deep Learning
-
 ## Overview
 
 This repository contains a Python script `image-classification-deep-learning.py` for classifying images from the CIFAR-10 dataset using deep learning techniques. The script demonstrates the use of convolutional neural networks (CNNs) to categorize images into one of the ten classes in the CIFAR-10 dataset.
@@ -48,4 +45,3 @@ Contributions, improvements, and bug fixes are greatly appreciated. Feel free to
 ## License
 
 This project is open-sourced under the MIT License. See the LICENSE file in the repository for more details.
-```
